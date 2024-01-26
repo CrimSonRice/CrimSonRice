@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crimsonrice&label=Profile%20views&color=0e75b6&style=flat" alt="crimsonrice" /> </p>
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Redux.JS**
 
 - 📫 How to reach me **angsarintolaa@gmail.com**
 
-<!-- - ⚡ Fun fact **I like talking in different accents.** -->
+ - ⚡ Fun fact **I listen to way too much musics.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
