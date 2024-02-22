@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ang Sarintola</h1>
 <h3 align="center">A passionate developer from Cambodia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crimsonrice&label=Profile%20views&color=0e75b6&style=flat" alt="crimsonrice" /> </p>
 
-- 🌱 I’m currently learning **Redux.JS**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **angsarintolaa@gmail.com**
 
