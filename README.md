@@ -2,16 +2,16 @@
 <h3 align="center">A passionate developer from Cambodia</h3>
 
 
-- 🌱 I’m currently learning **Laravel**
+<!-- 🌱 I’m currently learning **Laravel** -->
 
-- 📫 How to reach me **angsarintolaa@gmail.com**
+<!-- 📫 How to reach me **angsarintolaa@gmail.com**-->
 
- - ⚡ Fun fact **I listen to way too much musics.** 
+<!-- ⚡ Fun fact **I listen to way too much musics.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/angsarintola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/angsarintola/" height="30" width="40" /></a>
-<a href="https://instagram.com/_crimson.rice_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_crimson.rice_" height="30" width="40" /></a>
+<!--<a href="https://instagram.com/_crimson.rice_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_crimson.rice_" height="30" width="40" /></a>-->
 </p>
 
 <!--
